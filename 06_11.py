@@ -22,3 +22,4 @@ plt.legend(loc="upper right")
 plt.show()
 #githubに連携します
 #git
+#コミット2回目
